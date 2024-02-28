@@ -21,3 +21,4 @@ let ships = (name, length, hits, sunk) => {
 }
 
 export default ships
+// export  { ships }
